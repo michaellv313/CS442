@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>state</key>
+	<string></string>
+	<key>message</key>
+	<string></string>
+	<key>from</key>
+	<string></string>
+	<key>to</key>
+	<string></string>
+	<key>number</key>
+	<integer>0</integer>
+	<key>time</key>
+	<date>2014-04-25T03:02:30Z</date>
+	<key>car</key>
+	<integer>0</integer>
+	<key>driver</key>
+	<string></string>
+</dict>
+</plist>
